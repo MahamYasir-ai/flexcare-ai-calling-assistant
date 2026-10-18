@@ -1,0 +1,6 @@
+{
+  "name": "CallPilot AI — FlexCare Appointment Calling Agent",
+  "description": "AI voice agent dashboard for FlexCare Physiotherapy managing automated outbound appointment booking, live call simulation, and patient triage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
